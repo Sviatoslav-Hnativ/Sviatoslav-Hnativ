@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @Sviatoslav-Hnativ  
 
 🎓 **Master’s student in Computer Science**  
-I’m currently pursuing my Master's degree in Computer Science, focusing on topics such as **Internet of Things (IoT)**, **Artificial Intelligence**, **Computer Vision**, and **High-Performance Computing (HPC)**.  
+I’m currently pursuing my Master's degree in Computer Science, focusing on topics such as **Internet of Things (IoT)**, **Artificial Intelligence**, **Computer Vision**.  
 
 ---
 
