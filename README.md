@@ -19,9 +19,8 @@ This repository contains my **university laboratory works** and **research proje
 Each folder corresponds to a separate lab or coursework project — from **HPC programming** in C++ and CUDA to **IoT systems** built on Arduino and Raspberry Pi.
 
 
-## 💞️ I’m looking to collaborate on
-- Open-source IoT or AI research projects  
-- Educational resources for Computer Science students  
+## I’m looking to collaborate on
+- Open-source IoT or AI research projects   
 - Smart factory / smart warehouse solutions  
 - Data visualization and analytics tools  
 
