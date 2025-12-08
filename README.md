@@ -31,7 +31,6 @@ Each folder corresponds to a separate lab or coursework project — from **HPC p
 ## ⚡ Fun fact
 When I’m not debugging code or building IoT devices, I enjoy exploring digital transformation trends and experimenting with **AI-powered automation** ideas.
 
----
 
 > _“Code, research, and curiosity — the perfect trio for innovation.”_
 
